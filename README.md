@@ -7,5 +7,5 @@ Razorpay is a leading payment gateway provider that enables businesses in India 
 
 Note : If you want to copy this you must have the other files also i.e main.css , tailwind-config.js etc ( as listed by me in my razorpay repo) as these are essential for running css tailwind or you can first intall tailwind and just copy index.html file and edit the link part in head.
 
-1[image alt](https://github.com/Manglam-Sharma/Razorpay-Clone/blob/ce55109434679a22406073f90b4ef0ede5ad4115/Screenshot%202025-02-20%20001927.png)
 
+![image alt](https://github.com/Manglam-Sharma/Razorpay-Clone/blob/ce55109434679a22406073f90b4ef0ede5ad4115/Screenshot%202025-02-20%20001927.png)
